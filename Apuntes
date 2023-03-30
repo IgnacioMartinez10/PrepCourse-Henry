@@ -1,0 +1,21 @@
+¿Cuál es la diferencia entre Git y Github?
+
+GIT es una herramienta local que usan los desarrolladores para gestionar codigo fuente.
+GITHUB es un servicio en linea que los desarrolladores que usan GIT pueden acceder y descargar o cargar recursos.
+
+En resumen, Git es el sistema de control de versiones y GitHub es un servicio de alojamiento para los repositorios de Git.
+
+----- MODULO 2 -----
+
+COMANDOS PAR LA TERMINAL
+
+pwd : imprime en donde estamos trabajando (en donde estamos parados)
+ls : imprime un listado de todos los archivos y carpetas de donde estamos parados.
+mkdir: crea una nueva carpeta ejemplo --> mkdir carpeta1
+mkdir -v carpeta2 : crea la carpeta igual que el anterior pero devuelve un mensaje de "carpeta creada"
+cd: para ir hacia el directorio que contiene la carpeta o directorio en donde nos encontramos. También podemos usarla para movernos entre carpetas, por ejemplo al usar cd carpetaPrueba cambiamos de la carpeta actual hacia "carpetaPrueba"
+touch archivo.txt : crea un archivo con nombre "archivo.txt"
+rm archivo.txt : elimina el archivo "archivo.txt"
+rm -r carpetaPrueba: elimina la carpeta de nombre "carpetaPrueba"
+
+
